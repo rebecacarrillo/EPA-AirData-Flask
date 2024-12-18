@@ -1,5 +1,4 @@
-# Team Null Pointers
-# Rebeca Carrillo, Crystal Contreras, Josh Crosby
+
 
 For IBM Hack4Space hackathon
 
